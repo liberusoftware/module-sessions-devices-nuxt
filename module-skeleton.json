@@ -1,0 +1,25 @@
+{
+  "repository": "module-sessions-devices-nuxt",
+  "capabilityKey": "liberusoftware/sessions-devices",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sessions-devices-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/sessions-devices.md",
+  "presentationPlan": "projects/boilerplate/nuxt/sessions-devices.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
